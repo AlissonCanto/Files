@@ -1,0 +1,90 @@
+Type (Lookup),Product (Lookup),Category (Lookup),Subcategory
+I am facing an Issue or Problem,Power Apps,Power Apps data loss prevention,Power Apps data loss prevention
+I am facing an Issue or Problem,Power Automate,Power Automate data loss prevention,Power Automate data loss prevention
+I have a Request,Access,Shared environment,Shared environment
+I would like to gain Knowledge or Education,Power Apps,App Creation,"Adding media - images, sound, video"
+I would like to gain Knowledge or Education,Power Apps,App Creation,App Checker
+I would like to gain Knowledge or Education,Power Apps,App Creation,App settings
+I would like to gain Knowledge or Education,Power Apps,App Creation,Configuring a control
+I would like to gain Knowledge or Education,Power Apps,App Creation,"Configuring a datasource (Add, Remove or Refresh)"
+I would like to gain Knowledge or Education,Power Apps,App Creation,Creating a new app
+I would like to gain Knowledge or Education,Power Apps,App Creation,Diagnostic tools (such as Monitor)
+I would like to gain Knowledge or Education,Power Apps,App Creation,Entity subcomponents
+I would like to gain Knowledge or Education,Power Apps,App Creation,Forms (such as Display and Edit forms)
+I would like to gain Knowledge or Education,Power Apps,App Creation,Functions
+I would like to gain Knowledge or Education,Power Apps,App Creation,Offline apps
+I would like to gain Knowledge or Education,Power Apps,App Creation,Publish an app or app versions
+I would like to gain Knowledge or Education,Power Apps,App Creation,Rules
+I would like to gain Knowledge or Education,Power Apps,App Creation,Saving an app
+I would like to gain Knowledge or Education,Power Apps,App Creation,Saving to the cloud - locally or version control
+I would like to gain Knowledge or Education,Power Apps,App Creation,Sharing connections
+I would like to gain Knowledge or Education,Power Apps,App Creation,Templates and sample apps
+I would like to gain Knowledge or Education,Power Apps,App Creation,Test Studio
+I would like to gain Knowledge or Education,Power Apps,App Creation,"Using functions - syntax, errors, how-to"
+I would like to gain Knowledge or Education,Power Apps,App Management,How to delete an app?
+I would like to gain Knowledge or Education,Power Apps,App Management,How to export an app?
+I would like to gain Knowledge or Education,Power Apps,App Management,How to import an app?
+I would like to gain Knowledge or Education,Power Apps,App Management,How to restore previous app version?
+I would like to gain Knowledge or Education,Power Apps,App Management,How to share an app?
+I would like to gain Knowledge or Education,Power Apps,App Management,How to use Solution checker?
+I would like to gain Knowledge or Education,Power Apps,Working with data,Creating connections
+I would like to gain Knowledge or Education,Power Apps,Working with data,Power Apps Custom connectors
+I would like to gain Knowledge or Education,Power Apps,App Management,Working with solutions Power Apps
+I would like to gain Knowledge or Education,Power Automate,Configuration and management,Configuration and management
+I would like to gain Knowledge or Education,Power Automate,Data loss prevention (DLP),Data loss prevention (DLP)
+I would like to gain Knowledge or Education,Power Automate,Approvals,Working with approval flows
+I would like to gain Knowledge or Education,Power Automate,Connections,Creating and managing connections
+I would like to gain Knowledge or Education,Power Automate,Connections,Power Automate Custom connectors
+I would like to gain Knowledge or Education,Power Automate,Connections,Gateways
+I would like to gain Knowledge or Education,Power Automate,Flows,Actions
+I would like to gain Knowledge or Education,Power Automate,Flows,Flow performance
+I would like to gain Knowledge or Education,Power Automate,Flows,Templates
+I would like to gain Knowledge or Education,Power Automate,Flows,Triggers
+I would like to gain Knowledge or Education,Power Automate,Flows,Working with flows
+I would like to gain Knowledge or Education,Power Automate,Flows - Business Process Flow,Working with business process flows
+I would like to gain Knowledge or Education,Power Automate,Mobile apps,Working with mobile apps
+I would like to gain Knowledge or Education,Power Automate,Solutions,Working with solutions Power Automate
+I would like to gain Knowledge or Education,Power Automate,Process advisor,Working with process advisor
+I would like to gain Knowledge or Education,Power Automate,Licensing,License requirements for my app
+I would like to gain Knowledge or Education,Power Automate,Licensing,Power Apps API capacity limits
+I would like to gain Knowledge or Education,Power Automate,Licensing,Power Apps capabilities with Office 365 licenses (Comunity Link)
+I would like to gain Knowledge or Education,Power Automate,Licensing,Power Apps use rights and differences by license (Comunity Link)
+I have a Request,For the C4E Team,Data integration,Data integration
+I have a Request,For the C4E Team,Data loss prevention - DLP,Data loss prevention - DLP
+I have a Request,For the C4E Team,Environments,Backup
+I have a Request,For the C4E Team,Environments,Copy Environment
+I have a Request,For the C4E Team,Environments,Creating or provisioning an environment
+I have a Request,For the C4E Team,Environments,Delete or recover an environment
+I have a Request,For the C4E Team,Environments,Environment missing
+I have a Request,For the C4E Team,Environments,Environment Settings
+I have a Request,For the C4E Team,Environments,Reset Environment
+I have a Request,For the C4E Team,Environments,Restore
+I have a Request,For the C4E Team,Environments,Storage and capacity
+I have a Request,For the C4E Team,"Extending, renewing, and administering trials","Extending, renewing, and administering trials"
+I have a Request,For the C4E Team,Monitoring or telemetry,Monitoring or telemetry
+I have a Request,For the C4E Team,Other,Other
+I have a Request,For the C4E Team,Remove sample apps,Remove sample apps
+I have a Request,App Management,Delete an app,Delete an app request
+I have a Request,App Management,Export an app,Exporting an app request
+I have a Request,App Management,Import an app,Import an app request
+I have a Request,App Management,Restore previous app version,Restore previous app version request
+I have a Request,App Management,Share an app,Share an app request
+I have a Request,App Management,Solution checker,Solution checker request
+I have a Request,CI/CD-ALM,Build tool configuration,Build tool configuration
+I have a Request,CI/CD-ALM,Power Apps checker,Power Apps checker
+I have a Request,Integrations with other products,Power BI,Power BI
+I have a Request,Integrations with other products,SharePoint Forms,SharePoint Forms
+I have a Request,Integrations with other products,Teams,Teams
+I have a Request,Licensing,Power Apps Per User Plan,Power Apps Per User Plan
+I am facing an Issue or Problem,Power Apps,CI/CD-ALM,Error during task execution
+I am facing an Issue or Problem,Power Apps,Connections,Power Apps Connector errors - Actions and Triggers
+I am facing an Issue or Problem,Power Apps,Dataverse,Power Apps Dataverse Errors
+I am facing an Issue or Problem,Power Apps,Error while creating an app,Error while creating an app
+I am facing an Issue or Problem,Power Apps,Perfomance,Performance
+I am facing an Issue or Problem,Power Apps,Solution errors - Power Apps,Solution errors - Power Apps
+I am facing an Issue or Problem,Power Automate,Connections,Power Automate Connector errors - Actions and Triggers
+I am facing an Issue or Problem,Power Automate,Dataverse (CDS),Power Automate Dataverse Errors
+I am facing an Issue or Problem,Power Automate,Flows,Flow errors
+I am facing an Issue or Problem,Power Automate,Flows,Flow Performance Problem
+I am facing an Issue or Problem,Power Automate,Flows - Business Process Flow,BPF errors
+I am facing an Issue or Problem,Power Automate,Solution errors - Power Automate,Solution errors - Power Automate
