@@ -1,4 +1,4 @@
-Type (Lookup),Product (Lookup),Category (Lookup),Subcategory
+Type,Product,Category,Subcategory
 I am facing an Issue or Problem,Power Apps,Power Apps data loss prevention,Power Apps data loss prevention
 I am facing an Issue or Problem,Power Automate,Power Automate data loss prevention,Power Automate data loss prevention
 I have a Request,Access,Shared environment,Shared environment
